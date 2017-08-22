@@ -1,0 +1,8 @@
+linux-headers-4.2.0-42_4.2.0-42.49~14.04.1_all.deb devel optional
+linux-image-4.2.0-42-generic_4.2.0-42.49~14.04.1_amd64.deb kernel optional
+linux-image-extra-4.2.0-42-generic_4.2.0-42.49~14.04.1_amd64.deb kernel optional
+linux-headers-4.2.0-42-generic_4.2.0-42.49~14.04.1_amd64.deb devel optional
+linux-tools-4.2.0-42-generic_4.2.0-42.49~14.04.1_amd64.deb devel optional
+linux-cloud-tools-4.2.0-42-generic_4.2.0-42.49~14.04.1_amd64.deb devel optional
+linux-headers-4.2.0-42_4.2.0-42.49_unacloud_all.deb devel optional
+linux-headers-4.2.0-42_4.2.0-42.49-unacloud_all.deb devel optional
